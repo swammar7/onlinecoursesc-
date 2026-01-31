@@ -73,11 +73,6 @@ Leadership Skills
 
 Weightlifting Basics
 
-Requirements
-C++ compiler (g++, clang++, or MSVC)
-
-Basic terminal/command prompt knowledge
-
 Notes
 Each student can enroll in up to 3 courses
 
